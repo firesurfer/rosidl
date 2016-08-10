@@ -1,2 +1,3 @@
 __pycache__
 *.pyc
+/rosidl_generator_cs
